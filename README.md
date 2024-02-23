@@ -5,5 +5,5 @@
 - [ ] task3
 
 ## 2024-02-23
-- [ ] new_task1
-- [ ] new_task2
+- [x] new_task1
+- [x] new_task2
