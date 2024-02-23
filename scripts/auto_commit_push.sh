@@ -4,7 +4,7 @@ cd ..
 git pull origin main
 
 cd scripts
-python add_to_readme.py
+python3 add_to_readme.py
 
 cd ..
 git add .
