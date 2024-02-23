@@ -55,7 +55,7 @@
       "events": {
         "every-n-seconds": {
           "enabled": true,
-          "seconds": 10
+          "seconds": 600
         }
       },
       "command_palette_availability": "enabled",
