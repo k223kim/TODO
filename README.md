@@ -16,7 +16,8 @@
 - [ ] 유정님께 데이터 셋 검수 부탁드리기
 - [ ] Learn about NestJS modules
 - [ ] get started with primeagen's algorithm course
-	- [ ] Work on it for an hour
+	- [ ] hour and a half (7:00 - 8:30)
+	- [ ] Linear search, binary search, bubble sort, linked list
 
 Thoughts
 - try to focus on specific topics and avoid to expand my interest at this point as I have a target goal
