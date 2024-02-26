@@ -11,11 +11,11 @@
 - [ ] Write code to split train-val for ternary classification model considering the departments
 
 ## 2024-02-26
-- [ ] create yolo dataset (split train, val depending on department)
-- [ ] train yolo classification model
+- [x] create yolo dataset (split train, val depending on department)
+- [x] train yolo classification model
 - [ ] 유정님께 데이터 셋 검수 부탁드리기
 - [ ] conduct inference of classification model on the android app (react native)
-- [ ] Learn about NestJS modules
+- [x] Learn about NestJS modules
 - [x] get started with primeagen's algorithm course
 	- [x] hour and a half (7:00 - 8:30)
 	- [x] Linear search, binary search, bubble sort, linked list
