@@ -37,3 +37,8 @@ Thoughts
 	- ci/cd
 ## 2024-02-27
 - [ ] create kids test dataset
+- [ ] do more kata-machine-python
+	- [ ] get everything setup to run live
+- [ ] study algorithms
+	- [ ] up to ring buffer at least
+- [ ] study nestJS modules
