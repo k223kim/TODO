@@ -20,6 +20,9 @@
 	- [x] hour and a half (7:00 - 8:30)
 	- [x] Linear search, binary search, bubble sort, linked list
 	- [x] Doubly linked list
+Some ideas
+- Convert primeagen's kata-machine in python
+	- for my personal use
 
 Thoughts
 - try to focus on specific topics and avoid to expand my interest at this point as I have a target goal
