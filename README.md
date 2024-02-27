@@ -39,8 +39,8 @@ Thoughts
 - [ ] create kids test dataset
 - [x] analyze on test set
 - [ ] oversample classification dataset
-- [ ] do more kata-machine-python
-	- [ ] get everything setup to run live (at least linear search)
+- [x] do more kata-machine-python
+	- [x] get everything setup to run live (at least linear search)
 - [x] study algorithms
 	- [x] up to ring buffer at least
 - [ ] study nestJS modules
