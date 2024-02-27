@@ -38,6 +38,7 @@ Thoughts
 ## 2024-02-27
 - [ ] create kids test dataset
 - [x] analyze on test set
+- [ ] oversample classification dataset
 - [ ] do more kata-machine-python
 	- [ ] get everything setup to run live (at least linear search)
 - [x] study algorithms
