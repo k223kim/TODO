@@ -38,9 +38,14 @@ Thoughts
 ## 2024-02-27
 - [ ] create kids test dataset
 - [x] analyze on test set
-- [ ] oversample classification dataset
+- [x] oversample classification dataset
 - [x] do more kata-machine-python
 	- [x] get everything setup to run live (at least linear search)
 - [x] study algorithms
 	- [x] up to ring buffer at least
 - [ ] study nestJS modules
+## 2024-02-28
+- [ ] continue oversampling and potentially train model
+- [ ] prepare presentation for okr review
+- [ ] run 5 km!
+- [ ] study algorithms
