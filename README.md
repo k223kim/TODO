@@ -37,7 +37,7 @@ Thoughts
 	- ci/cd
 ## 2024-02-27
 - [ ] create kids test dataset
-- [ ] analyze on test set
+- [x] analyze on test set
 - [ ] do more kata-machine-python
 	- [ ] get everything setup to run live (at least linear search)
 - [x] study algorithms
