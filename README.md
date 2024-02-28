@@ -46,6 +46,7 @@ Thoughts
 - [ ] study nestJS modules
 ## 2024-02-28
 - [ ] continue oversampling and potentially train model
-- [ ] prepare presentation for okr review
+- [x] prepare presentation for okr review
 - [ ] run 5 km!
 - [x] study algorithms
+	- [x] quick sort & maze problem
