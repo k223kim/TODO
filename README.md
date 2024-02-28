@@ -47,8 +47,13 @@ Thoughts
 ## 2024-02-28
 - [ ] continue oversampling and potentially train model
 - [x] prepare presentation for okr review
-- [ ] run 5 km!
+- [x] run 5 km!
 - [x] study algorithms
 	- [x] quick sort & maze problem
 - [x] Update kata-machine-python
 	- [x] included binary search, queue, stack
+## 2024-02-29
+- [ ] study algorithms
+- [ ] start studying postgresql
+- [ ] fine tune yolo on one department
+- [ ] message 김태훈 on linkedin
