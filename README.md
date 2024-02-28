@@ -53,7 +53,8 @@ Thoughts
 - [x] Update kata-machine-python
 	- [x] included binary search, queue, stack
 ## 2024-02-29
-- [ ] study algorithms
+- [x] study algorithms
+	- [x] mostly reviewing doubly linked list, stack, queue, maze solver, quick and bubble sort
 - [ ] start studying postgresql
 - [ ] fine tune yolo on one department
-- [ ] message 김태훈 on linkedin
+- [x] message 김태훈 on linkedin
