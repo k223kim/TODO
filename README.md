@@ -48,4 +48,4 @@ Thoughts
 - [ ] continue oversampling and potentially train model
 - [ ] prepare presentation for okr review
 - [ ] run 5 km!
-- [ ] study algorithms
+- [x] study algorithms
