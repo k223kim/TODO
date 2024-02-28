@@ -50,3 +50,5 @@ Thoughts
 - [ ] run 5 km!
 - [x] study algorithms
 	- [x] quick sort & maze problem
+- [x] Update kata-machine-python
+	- [x] included binary search, queue, stack
