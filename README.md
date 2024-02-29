@@ -55,6 +55,7 @@ Thoughts
 ## 2024-02-29
 - [x] study algorithms
 	- [x] mostly reviewing doubly linked list, stack, queue, maze solver, quick and bubble sort
-- [ ] start studying postgresql
+- [x] start studying postgresql
 - [ ] fine tune yolo on one department
 - [x] message 김태훈 on linkedin
+- [ ] organize training results
