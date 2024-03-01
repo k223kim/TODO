@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_todo/2024-02-29.md",
+                "file": "daily_todo/2024-03-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_todo/2024-02-29.md",
+                "file": "daily_todo/2024-03-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_todo/2024-02-29.md",
+                "file": "daily_todo/2024-03-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_todo/2024-02-29.md"
+                "file": "daily_todo/2024-03-01.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4e2793aaed6a427",
+  "active": "246e409083569127",
   "lastOpenFiles": [
-    "daily_todo/2024-02-28.md",
     "daily_todo/2024-02-29.md",
+    "daily_todo/2024-03-01.md",
+    "daily_todo/2024-02-28.md",
     "daily_todo/2024-02-27.md",
     "daily_todo/2024-02-26.md",
     "daily_todo/2024-02-23.md",
