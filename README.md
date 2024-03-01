@@ -62,4 +62,4 @@ Thoughts
 - [x] message 김태훈 on linkedin
 - [x] organize training results
 ## 2024-03-01
-- [ ] finish sql exercise
+- [x] finish sql exercise
