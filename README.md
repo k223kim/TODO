@@ -64,5 +64,5 @@ Thoughts
 ## 2024-03-01
 - [x] finish sql exercise
 ## 2024-03-02
- - [ ] study postgres sql
+ - [x] study postgres sql
  - [ ] prepare tormorrow's conversation with a small Q&A kit
