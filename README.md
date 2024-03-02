@@ -68,5 +68,9 @@ Thoughts
  - [x] train yolo with over sampled data
 	 - [x] do a augmented version (train2)
 	 - [x] and a non augmented version (train)
-- [ ] complete spliting on date
+- [x] complete spliting on date
  - [ ] prepare tormorrow's conversation with a small Q&A kit
+## 2024-03-03
+- [ ] go on a date with MY
+	- [ ] make a ring
+	- [ ] talk about our relationship
