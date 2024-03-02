@@ -65,4 +65,8 @@ Thoughts
 - [x] finish sql exercise
 ## 2024-03-02
  - [x] study postgres sql
+ - [x] train yolo with over sampled data
+	 - [x] do a augmented version (train2)
+	 - [x] and a non augmented version (train)
+- [ ] complete spliting on date
  - [ ] prepare tormorrow's conversation with a small Q&A kit
