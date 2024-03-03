@@ -69,8 +69,8 @@ Thoughts
 	 - [x] do a augmented version (train2)
 	 - [x] and a non augmented version (train)
 - [x] complete spliting on date
- - [ ] prepare tormorrow's conversation with a small Q&A kit
+ - [x] prepare tormorrow's conversation with a small Q&A kit
 ## 2024-03-03
-- [ ] go on a date with MY
-	- [ ] make a ring
-	- [ ] talk about our relationship
+- [x] go on a date with MY
+	- [x] make a ring
+	- [x] talk about our relationship
