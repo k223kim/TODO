@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-04.md",
+                "file": "daily_todo/2024-03-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-04.md",
+                "file": "daily_todo/2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-04.md",
+                "file": "daily_todo/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-04.md"
+                "file": "daily_todo/2024-03-04.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "e4e2793aaed6a427",
   "lastOpenFiles": [
+    "README.md",
+    "daily_todo/2024-03-04.md",
     "daily_todo/2024-03-03.md",
-    "2024-03-04.md",
     "daily_todo/2024-03-02.md",
     "daily_todo/2024-03-01.md",
     "daily_todo/2024-02-29.md",
@@ -157,7 +158,6 @@
     "daily_todo/2024-02-27.md",
     "daily_todo/2024-02-26.md",
     "daily_todo/2024-02-23.md",
-    "daily_todo/2024-02-22.md",
-    "README.md"
+    "daily_todo/2024-02-22.md"
   ]
 }

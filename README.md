@@ -74,3 +74,18 @@ Thoughts
 - [x] go on a date with MY
 	- [x] make a ring
 	- [x] talk about our relationship
+## 2024-03-04
+- [x] study algorithms (~8:30)
+	- [x] up to dfs, bfs, bst(binary search tree)
+- [x] study sql (postgresql) (~10:30)
+	- [x] study until joins and constraints
+	- [ ] finish recipe exercise
+- [x] train on 'split by date' dataset
+- [ ] fine tune on department
+- [x] analyze test results of oversampled training
+- [x] run 5 km
+- [ ] share edge device idea at 5
+- [ ] prepare CUDA study
+	- [ ] look into the assignment regarding AI compiler
+	- [ ] learn about pytorch vs triton code
+
