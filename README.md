@@ -89,3 +89,12 @@ Thoughts
 	- [ ] look into the assignment regarding AI compiler
 	- [ ] learn about pytorch vs triton code
 
+
+## 2024-03-05
+- [ ] finish sql exercise
+- [x] study algorithms
+	- [x] finished up to (not including) Dijkstra algorithm
+- [x] set up cuda vs triton environment using docker
+- [x] use yolo docker to train different versions of models
+- [x] separate kids & school dataset
+- [ ] update JIRA
