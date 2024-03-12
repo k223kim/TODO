@@ -98,3 +98,40 @@ Thoughts
 - [x] use yolo docker to train different versions of models
 - [x] separate kids & school dataset
 - [ ] update JIRA
+## 2024-03-06
+- [x] study algorithms 
+	- [x] review, dijkstra algorithm
+- [x] gs tower dataset prepare
+	- [x] crop tray
+	- [x] run inference
+## 2024-03-07
+- [x] anaylze gs tower and share result
+- [x] record on JIRA
+- [x] study algorithm
+## 2024-03-08
+- [ ] study algorithm
+- [x] analyze kids/school separately and calculate performance
+- [x] share model results
+## 2024-03-11
+- [x] review algorithm course (the last algorithm course you'll need) + list out what you have reviewed
+	- [x] arraylist
+	- [x] queue
+	- [x] dijkstra 
+	- [x] quick sort
+	- [x] min heap
+	- [x] stack
+	- [x] bfs
+	- [x] maze (dfs)
+	- [x] bubble sort
+	- [x] compare bst
+	- [x] binary search
+- [ ] get started with leetcode
+- [ ] write a blog post about triton
+- [ ] start with sql tasks
+thoughts
+- i think i need to learn either Golang or C++. Should probably think in more depth
+## 2024-03-12
+- [ ] make every hour count!
+- [ ] start leetcode
+	- [x] decide goal: top interview 150
+- [ ] write a blog post about tmux?
